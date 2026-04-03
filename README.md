@@ -185,6 +185,13 @@ openclaw-retail-trader/
 
 如果你还是决定用它交易：
 祝你好运 💀
+
+## 参考 | 致敬
+本仓库的 README 与 skill 项目组织方式参考了以下项目的结构：
+
+- [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill)
+- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
+
 ## 写在最后
 写这个项目的时候，其实会发现一件挺真实的事：
 很多时候，我们不是不懂投资，  
@@ -207,6 +214,4 @@ openclaw-retail-trader/
 - 甚至只是，在亏钱的时候，能笑一笑
 
   祝好
-## 参考
 
-本仓库的 README 与 skill 项目组织方式参考了 [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) 的结构。
