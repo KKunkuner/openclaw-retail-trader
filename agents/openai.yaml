@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw A-Share Retail Trader"
+  short_description: "A-share retail trading suggestions"
+  default_prompt: "Use $openclaw-retail-trader to analyze this A-share setup like a disciplined retail trader and give a trading suggestion."
